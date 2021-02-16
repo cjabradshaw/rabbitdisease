@@ -5,17 +5,18 @@ Accompanies paper:
 
 Barnett, LK, TAA Prowse, DE Peacock, GJ Mutze, R Sinclair, J Kovaliski, B Cooke, CJA Bradshaw. 2018. <a href="http://doi.org/10.1111/1365-2664.13187">Previous exposure to myxoma virus reduces survival of European rabbits during outbreaks of rabbit haemorrhagic disease</a>. <em>Journal of Applied Ecology</em> 55: 2954-2962
 
-Barnett, Louise K., Flinders University
-Prowse, Thomas A. A., University of Adelaide
-Peacock, David E, Biosecurity South AustraliaDepartment of Primary Industries and Regions Adelaide South Australia Australia
-Mutze, Gregory J, Biosecurity South AustraliaDepartment of Primary Industries and Regions Adelaide South Australia Australia
-Sinclair, Ron G., University of Adelaide
-Kovaliski, John, Biosecurity South AustraliaDepartment of Primary Industries and Regions Adelaide South Australia Australia
-Cooke, Brian D., University of Canberra
-Bradshaw, Corey J. A., Flinders University
+- Barnett, Louise K., Flinders University
+- Prowse, Thomas A. A., University of Adelaide
+- Peacock, David E, Biosecurity South AustraliaDepartment of Primary Industries and Regions Adelaide South Australia Australia
+- Mutze, Gregory J, Biosecurity South AustraliaDepartment of Primary Industries and Regions Adelaide South Australia Australia
+- Sinclair, Ron G., University of Adelaide
+- Kovaliski, John, Biosecurity South AustraliaDepartment of Primary Industries and Regions Adelaide South Australia Australia
+- Cooke, Brian D., University of Canberra
+- Bradshaw, Corey J. A., Flinders University
+
 Publication date: May 18, 2019
-Publisher: Dryad
-https://doi.org/10.5061/dryad.j91d66c
+
+Publisher: Dryad (https://doi.org/10.5061/dryad.j91d66c)
 
 ## Data/code citation
 
