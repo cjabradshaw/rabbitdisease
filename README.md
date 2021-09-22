@@ -1,4 +1,6 @@
-# rabbitdisease
+# rabbit disease model
+<img align="right" src="deadbunny.png" alt="rabbit" width="200" style="margin-top: 20px">
+
 Previous exposure to myxomatosis reduces survival of European rabbits during outbreaks of rabbit haemorrhagic disease
 
 Accompanies paper:
